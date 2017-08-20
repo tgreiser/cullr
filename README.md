@@ -12,3 +12,7 @@ DIE
 DIE!!
 
 For use with TouchDesigner and Ether Dream. Maybe Helios.
+
+## Requirements
+
+TouchDesigner - https://www.derivative.ca/099/Downloads/
