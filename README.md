@@ -25,4 +25,6 @@ For use with an XBox style USB controller.
 
 ## Requirements
 
-TouchDesigner - https://www.derivative.ca/099/Downloads/
+- TouchDesigner - https://www.derivative.ca/099/Downloads/
+- ILDA laser
+- EtherDream - https://ether-dream.com/
