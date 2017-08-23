@@ -15,6 +15,14 @@ DIE!!
 
 For use with TouchDesigner and Ether Dream. Maybe Helios.
 
+## Controls
+
+For use with an XBox style USB controller.
+
+- D-Pad   - select level
+- L Stick - rotate level
+- R/G/B   - change color
+
 ## Requirements
 
 TouchDesigner - https://www.derivative.ca/099/Downloads/
